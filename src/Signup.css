@@ -1,0 +1,16 @@
+.input-container {
+    text-align: left;
+    text-size-adjust: 100;
+}
+
+input {
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 0.25rem;
+    color:red;
+    font-size: 0.8rem;
+}
